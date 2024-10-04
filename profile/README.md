@@ -21,11 +21,6 @@
 * https://crguezl.github.io/ull-etsii-grado-pl-apuntes/javascriptexamples.pdf
 * https://github.com/crguezl?tab=repositories&q=pl&type=&language=&sort=stargazers crguezl repos with pl in their name
 
-## Template organization
-
-* https://github.com/ULL-ESIT-PL
-* https://ull-esit-pl.github.io/
-
 ## OCW 
 
 * https://campusvirtual.ull.es/ocw/course/view.php?id=45
